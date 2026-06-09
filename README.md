@@ -1,136 +1,79 @@
-# Hey! 👋 Welcome to my corner of GitHub
+# Hey! Welcome to my GitHub
 
-I'm **ShieldSword** – a curious GRC professional on an adventure to prove that compliance doesn't have to be boring, and that one person can wear many hats.
+I'm a GRC professional with 5+ years of experience, now teaching myself to code and building at the intersection of compliance and engineering.
 
-## Who Am I?
+## About Me
 
-5+ years in governance, risk, and compliance. But here's the thing: I got curious. Really curious. 
+I got curious. Really curious about why we do compliance manually when we could automate it. That question led me here—learning to code, building tools, and discovering that the most interesting problems live where GRC meets engineering.
 
-I started asking myself: *Why am I doing things manually? What if I could build this differently? What if I could learn to code?* Spoiler alert: I could. And I did. And now I'm on this wild journey of building things, breaking things, fixing things—all while learning something new almost every day.
+I was getting boxed in by the traditional compliance path. Not because GRC isn't amazing—it is—but because I wanted to stay relevant, stay curious, and do things differently. So here I am, teaching myself as I go, and proving that there are many different faces in GRC. The field is never too crowded for people willing to approach it from a new angle.
 
-**The Real Talk:** I was feeling boxed in by the traditional GRC path. Not because GRC isn't amazing—it is—but because I wanted to stay *relevant*, stay *curious*, stay *useful*. So I'm teaching myself to code, building tools, and discovering that the intersection of compliance and engineering is where things actually get interesting.
+## What I Work With
 
-**My Mission:** Show people that GRC has many faces. It's not just auditors and spreadsheets. It's builders, thinkers, problem-solvers, engineers. There's always room in GRC for curious people who want to do things differently. 🚀
+Languages: Python, JavaScript, Bash (learning Go)
 
-## 🎬 The Vibe
+Infrastructure: Terraform, CloudFormation, Kubernetes
 
-Think of me as the protagonist in an action-sci-fi movie—there's a problem (compliance complexity), the world is against me (manual processes everywhere), but I've got a tool (code) and I'm learning to use it. Every bug is a plot twist. Every successful deployment is a victory scene. 
+Cloud: AWS, Azure, GCP
 
-*Imagine the epic music.* 🎵
+Security & Compliance: Vault, OPA/Rego, Falco, OWASP
 
-## 🛠️ My Toolkit (Still Learning!)
+Monitoring: Prometheus, ELK Stack, Datadog
 
-This is my adventure kit. Yes, I'm still learning some of this. Yes, that's the point.
+Standards: SOC 2, ISO 27001, HIPAA, PCI-DSS, NIST CSF
 
-- **Languages:** Python (my favorite), JavaScript, Bash (and I'm learning Go & more)
-- **Infrastructure:** Terraform, CloudFormation, Kubernetes
-- **Security & Compliance:** HashiCorp Vault, OPA/Rego, Falco, OWASP
-- **Monitoring & Logging:** Prometheus, ELK Stack, Datadog
-- **Cloud:** AWS (where I'm most comfortable), Azure, GCP
-- **Compliance Standards:** SOC 2, ISO 27001, HIPAA, PCI-DSS, NIST CSF
-- **The GRC Classics:** Risk frameworks, control design, audit readiness, threat modeling
+## What Interests Me
 
-**Real talk:** I don't know everything. But I know how to Google, how to ask questions, and how to learn fast. That's honestly more useful anyway.
+Automating compliance and building tools that actually work. Speaking both policy and code so I can translate between teams. Proving that compliance can be elegant and enabling, not just a burden. Learning in public and shipping imperfect code. Taking compliance challenges and solving them with clean infrastructure and automation.
 
-## 🚀 What Excites Me
+## Projects
 
-✨ **The "I just automated this" feeling** - Nothing beats the moment you realize you just saved yourself (and your team) hours of manual work
+Working on tools that tackle real compliance problems:
 
-✨ **Learning in public** - Yeah, I'm going to make mistakes. Yeah, I'm going to post them. That's the journey, baby.
+Policy as Code framework for auto-checking infrastructure against compliance requirements
 
-✨ **Building bridges** - Being someone who speaks both "compliance" and "code" and can translate between teams
+Risk assessment automation that brings quantitative metrics to risk conversations
 
-✨ **Proving compliance can be fun** - GRC doesn't have to be dull. It can be elegant, clever, even *cool*.
+Secure infrastructure templates for SOC 2 and ISO 27001
 
-✨ **Sci-fi becoming reality** - Taking "impossible" compliance challenges and turning them into clean code solutions. It's like building the future.
+Container security pipeline that catches issues before they ship
 
-## 🎯 Projects (Building as I Go)
+## What I Believe
 
-This is my work-in-progress portfolio. Some are polished, some are still rough around the edges. All are learning opportunities:
+GRC has many different faces. Different backgrounds, skills, and approaches—all valuable. There's always a new angle, a better way, a problem that needs solving.
 
-- **[Project Name](#)** - *The spark that started it all.* Policy-as-Code framework that auto-checks infrastructure against compliance requirements. Started as frustration, became my favorite project.
+Compliance is a feature, not a checkbox. When designed right, it makes systems more resilient and trustworthy.
 
-- **[Project Name](#)** - *"I can't quantify risk with vibes."* Risk assessment automation tool that brings actual numbers to the conversation (no more gut-feeling decisions).
+Curiosity beats credentials. Start building, start learning, ship things. Credentials follow the work.
 
-- **[Project Name](#)** - *SOC 2 compliance with a smile.* Secure infrastructure templates that make compliance feel less like a burden and more like a feature.
+You can reinvent yourself. If I can go from spreadsheet compliance to infrastructure automation, anyone can.
 
-- **[Project Name](#)** - *Container security that catches the bad stuff early.* Scanning pipeline that lets developers move fast without sacrificing safety.
+## Currently Learning
 
-## 📊 My Journey So Far
+Making compliance interesting to developers
 
-[![ShieldSword's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShieldSword&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+Explaining complex risk concepts clearly
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShieldSword&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+Going deeper with Go
 
-## 💭 Things I Believe (And Want to Change)
+Why action movie protagonists never think about compliance (they should)
 
-🎭 **GRC Has Many Faces** – This is my biggest one. People think GRC is just:
-- Boring spreadsheets? ❌ It can be elegant automation.
-- Old gatekeepers? ❌ It can be curious builders.
-- Risk-averse? ❌ It can be enabling, innovative, forward-thinking.
+## Connect With Me
 
-There are *so many* different ways to approach GRC. Different backgrounds, different skills, different perspectives—all welcome. The field is never too crowded because there's always a new angle, a better way, a problem that needs solving.
+LinkedIn: [Your Profile](#)
 
-💡 **Curiosity > Credentials** – Don't wait until you're an "expert." Start building, start learning, start shipping. Credentials come with the work.
+Twitter/X: [@YourHandle](#)
 
-🔐 **Compliance is a Feature** – Not a checkbox. When you design it right, it makes your systems better, safer, smarter.
+Email: [your.email@example.com](#)
 
-🚀 **You Can Reinvent Yourself** – If I can go from spreadsheet compliance to building automation tools, anyone can. Stay curious. Stay hungry.
+## Let's Talk About
 
-## 🌱 What I'm Currently Learning
+How to automate your compliance challenges. Whether GRC has to be boring. Building secure infrastructure. Learning to code as a GRC professional. The intersection of policy and engineering. Why compliance automation is basically sci-fi becoming real.
 
-- Making compliance *actually* exciting for developers
-- How to explain complex risk concepts simply (inspired by sci-fi world-building, actually)
-- Going deeper with Go (the language, not the concept)
-- Better ways to teach GRC to people who think they'd hate it
-- Why action movie protagonists never seem to worry about compliance (they should)
-
-## 🤝 I Want to Connect With
-
-- **Other curious GRC folks** – You're asking "what if?" too? Let's build together.
-- **Developers who think compliance is a burden** – I want to show you it doesn't have to be.
-- **People in non-traditional GRC roles** – The different faces! The fresh perspectives! Love it.
-- **Builders and tinkerers** – Whether you're building compliance tools, security automation, or something wild—let's chat.
-- **Action/Sci-Fi fans in tech** – Okay, this is just for fun, but if you get excited about both movies and code, we're friends now.
-- **Anyone brave enough to learn in public** – You're the real hero.
-
-## 🎬 Random Fun Facts
-
-🍿 **Movies are my escape** – Give me a good sci-fi thriller or action flick, and I'm in. Bonus points if it has decent world-building.
-
-☕ **Fueled by curiosity and coffee** – In that order.
-
-🎪 **I believe in the "different faces" philosophy** – Not just in GRC, but in everything. There's always room for different perspectives, different approaches, different people.
-
-🌍 **I'm teaching myself as I go** – No fancy degree transition, just Google, Stack Overflow, and pure stubbornness. And it's working.
-
-## 🌐 Let's Connect
-
-- **LinkedIn:** [Your Profile](#) *(where I pretend to be professional but slip in GRC rants)*
-- **Twitter/X:** [@YourHandle](#) *(where I post hot takes and occasional movie references)*
-- **Email:** [your.email@example.com](#) *(I actually respond, usually with enthusiasm)*
-
-## 📫 Let's Talk About
-
-- How to automate that compliance nightmare you're having
-- Whether GRC *really* has to be boring (spoiler: it doesn't)
-- Different career paths in compliance and security
-- How to learn to code as a GRC professional (I'm figuring it out too!)
-- Your impossible requirements (I love a good challenge)
-- Why compliance automation is basically sci-fi becoming real
-- The best action/sci-fi movies and what they get wrong about security 😄
-- Building community around GRC engineering
-- The future of compliance as code
-
-**Hit me up!** Whether you're curious about compliance, learning to code, or just want to chat about movies and security—I'm here for it. This is my adventure, and I'd love to meet fellow travelers.
+Hit me up if any of this resonates. Whether you're curious about compliance, learning to code, or building something at this intersection—I'm here for it.
 
 ---
 
-## 🚀 Final Thought
+GRC isn't crowded. It's waiting for people willing to do things differently. There's a seat at this table with your name on it.
 
-GRC isn't crowded. It's just waiting for people like you—curious, eager to learn, willing to do things differently. There's a seat at this table, and it has your name on it.
-
-Let's build the future of compliance together.
-
-*Last updated: June 2026*  
-*Current mood: 🎬 + ☕ + 💻 + 🧠 (maximum curiosity) = 🚀*
+Last updated: June 2026
