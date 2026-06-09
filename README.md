@@ -51,20 +51,11 @@ You can reinvent yourself. If I can go from spreadsheet compliance to infrastruc
 ## Currently Learning
 
 Making compliance interesting to developers
-
 Explaining complex risk concepts clearly
-
 Going deeper with Go
-
 Why action movie protagonists never think about compliance (they should)
 
 ## Connect With Me
-
-LinkedIn: [Your Profile](#)
-
-Twitter/X: [@YourHandle](#)
-
-Email: [your.email@example.com](#)
 
 ## Let's Talk About
 
