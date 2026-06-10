@@ -4,9 +4,9 @@ I'm a GRC professional with 5+ years of experience, now teaching myself to code 
 
 ## About Me
 
-I got curious. Really curious about why we do compliance manually when we could automate it. That question led me here—learning to code, building tools, and discovering that the most interesting problems live where GRC meets engineering.
+I got curious. Really curious about why we do compliance manually when we could automate it. That question led me here; learning to code, building tools, and discovering that the most interesting problems live where GRC meets engineering.
 
-I was getting boxed in by the traditional compliance path. Not because GRC isn't amazing—it is—but because I wanted to stay relevant, stay curious, and do things differently. So here I am, teaching myself as I go, and proving that there are many different faces in GRC. The field is never too crowded for people willing to approach it from a new angle.
+I was getting boxed in by the traditional compliance path. Not because GRC isn't amazing, it is, but because I wanted to stay relevant, stay curious, and do things differently. So here I am, teaching myself as I go, and proving that there are many different faces in GRC. The field is never too crowded for people willing to approach it from a new angle.
 
 ## What I Work With
 
@@ -40,7 +40,7 @@ Container security pipeline that catches issues before they ship
 
 ## What I Believe
 
-GRC has many different faces. Different backgrounds, skills, and approaches—all valuable. There's always a new angle, a better way, a problem that needs solving.
+GRC has many different faces. Different backgrounds, skills, and approaches which are all valuable. There's always a new angle, a better way, a problem that needs solving.
 
 Compliance is a feature, not a checkbox. When designed right, it makes systems more resilient and trustworthy.
 
@@ -61,7 +61,7 @@ Why action movie protagonists never think about compliance (they should)
 
 How to automate your compliance challenges. Whether GRC has to be boring. Building secure infrastructure. Learning to code as a GRC professional. The intersection of policy and engineering. Why compliance automation is basically sci-fi becoming real.
 
-Hit me up if any of this resonates. Whether you're curious about compliance, learning to code, or building something at this intersection—I'm here for it.
+Hit me up if any of this resonates. Whether you're curious about compliance, learning to code, or building something at this intersection and I'm here for it.
 
 ---
 
